@@ -1,4 +1,6 @@
 ﻿pick 944ab98 TRUNK-367: Create a German messages.properties
+squash 973ef7c Update messages_de.properties
+squash a776981 Update messages_de.properties
 
 # Rebase ab2ba9c..a776981 onto ab2ba9c
 #
@@ -17,5 +19,3 @@
 # However, if you remove everything, the rebase will be aborted.
 #
 # Note that empty commits are commented out
-
-s
